@@ -1,4 +1,4 @@
-MoneyCount
+Money Counts
 ==========
 
 Android application for mobile banking
